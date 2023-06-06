@@ -1,21 +1,138 @@
 *{
     margin: 0px;
     padding: 0px;
+    box-sizing: border-box;
 }
 body {
-    background-color: aqua;
+    background-color: rgb(245, 229, 218);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 header {
     width: 100%;
-    height: 50px;
-    background-color: white;
+    height: 100px;
+    background-color: rgb(93, 139, 218);
 }
 header img {
-    max-width: 50px;
-}
-header nav ol{
-    list-style: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 3px;
+    float: left;
+    max-width: 150px;
 
+}
+header nav ol li{
+    margin-top: 25px;
+    list-style: none;
+    float: left;
+}
+
+header nav ol li a{
+    text-decoration: none;
+    padding: 15px ;
+    display: inline-block;
+    color: black;
+}
+
+header nav ol li a:hover{
+    background-color: rgb(4, 35, 91);
+    color: rgb(245, 229, 184);
+    transition: 0.5s;
+    border-radius: 15px;
+}
+
+main{
+    float: left;
+    width: 70%;
+    background-color: rgb(245, 229, 184);
+    clear: both;
+}
+
+main section{
+    padding: 30px;
+}
+
+main section h2{
+    color: rgb(4, 35, 91);
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+main section p{
+    color: rgb(4, 35, 91);
+    text-align: justify;
+    margin-bottom: 20px;
+    line-height: 200%;
+}
+
+aside{
+    width: 30%;
+    background-color: rgb(240, 135, 7);
+    padding: 15px;
+    float: left;
+    
+}
+aside h2, aside ul li{
+    color: rgb(4, 35, 91);
+    margin-bottom: 15px;
+}
+
+aside ul li{
+    list-style: none;
+    border-bottom: 1px solid rgb(4, 35, 91);
+}
+
+aside ul li:hover{
+    border-right: 1px solid rgb(245, 229, 184);
+    padding: 10px;
+    background-color: rgb(4, 35, 91);
+    color: rgb(245, 229, 184);
+    cursor: pointer;
+    transition: 1s;
+}
+
+.containt{
+    margin: auto;
+    max-width: 1000px;
+}
+
+footer{
+    clear: both;
+    width: 70%;
+    padding: 60px;
+    background-color: rgb(93, 139, 218);
+}
+footer section{
+    width: 33.3%;
+    float: left;
+}
+
+footer section p{
+    color: rgb(4, 35, 91);
+    text-align: center;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgb(4, 35, 91);
+    border-radius: 5px;
+    text-align: right;
+    
+    background-color: rgb(245, 229, 184);
+}
+
+.card img {
+    padding: 5px;
+    max-width: 100%;
+}
+.card h4{
+    padding-right: 5px;
+}
+
+.card p{
+    padding-right: 5px;
+    padding-bottom: 5px;
+    text-align: right;
+}
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgb(4, 35, 91);
 }

@@ -10,6 +10,10 @@ aside{
     float: left;    
 }
 
+aside h1{
+    padding: 10px;
+}
+
 aside h2{
     padding: 20px;
 }

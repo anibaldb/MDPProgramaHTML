@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.universal{
+    margin: auto;
+    width: 840px;
+}
+.padre1{
+    float: left;
+    position: relative;
+   
+    width: 420px;
+    height: 600px;
+}
+
+.padre1 .hijo1{
+    line-height: 400px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    background-color:red ;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}
+
+.padre2{
+    float: right;
+    position: relative;
+    
+    width: 420px;
+    height: 600px;
+}
+
+.padre2 .hijo2{
+    
+    line-height: 400px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    background-color:blue ;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}
+

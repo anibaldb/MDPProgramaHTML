@@ -1,0 +1,24 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.grid{
+    display:grid;
+    grid-template-columns: 60% 40%;
+    grid-template-rows: 300px 300px;
+    gap: 20px;
+    
+}
+
+.grid .item{
+    background-color: blue;
+    border: black 2px solid;
+}
+
+.grid .item1{
+    background-color: blue;
+    border: black 2px solid;
+    grid-row-start: 1;
+    grid-row-end: span 2;
+}

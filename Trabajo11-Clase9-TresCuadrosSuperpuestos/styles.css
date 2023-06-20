@@ -1,0 +1,41 @@
+*{
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor{
+    position: relative;
+    background-color: beige;
+    width: 1300px;
+    height: 600px;
+
+}
+
+.uno{
+    z-index: 3;
+    position: absolute;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.dos{
+    z-index: 2;
+    margin-top: 160px;
+    margin-left: 160px;
+    position: absolute;
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+.tres{
+    z-index: 1;
+    margin-top: 320px;
+    margin-left: 320px;
+    position: absolute;
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}

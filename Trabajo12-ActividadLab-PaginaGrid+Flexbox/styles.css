@@ -5,6 +5,7 @@
 }
 
 header{
+    
     background-color: rgb(88, 154, 241);
     
     display: flex;
@@ -30,7 +31,12 @@ header nav ul li{
     display: inline;
 }
 
-
+header nav ul li:hover{
+    border-radius: 50px;
+    cursor: pointer;
+    background-color:#d65703;
+    color: white;
+}
 
 
 
@@ -192,6 +198,13 @@ footer button{
 
 .cards button:hover{
     cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+footer button:hover{
+    cursor: pointer;
+    border: none;
     background-color: black;
     color: white;
 }

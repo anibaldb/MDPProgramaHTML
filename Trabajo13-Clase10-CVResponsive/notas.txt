@@ -1,0 +1,33 @@
+<!-- <h4>Desde Octubre del 2000 hasta Enero del 2002</h4> <br>
+        Trabaje en Open Sports desarrollando las siguientes tareas: <br>
+        -Atención al público ( vendedor ). <br>
+        -Personal de depósito. <br>
+        --Realicé los cursos de: <br>
+        ---Atención al cliente. <br>
+        ---Trabajo en equipo. <br><br>
+
+        <h4>Desde Diciembre del 2002 hasta Diciembre del 2004</h4>
+        Trabajé en MDP Express ( Agencia de traslados en combi ) realizando las tareas de: <br>
+        -Atención al público. <br>
+        -Tareas contables <br>
+        -Data Entry <br>
+        -Mantenimiento del sistema. <br> <br>
+
+        <h4>Desde Enero del 2005 hasta Diciembre del 2005</h4>
+        Trabajé en “Precios Mágicos” ( Local de indumentaria ) realizando las tareas de: <br>
+        -Atención al público. <br>
+        -Personal de Deposito <br><br>
+        
+        <h4>Desde Enero del 2006 hasta Noviembre del 2007</h4>
+        Trabajé en Stand de Juegos de PC y venta de accesorios afines ( Shopping Peatonal ) realizando
+        las tareas de: <br>
+        -Atención al público. <br>
+        -Soporte Técnico <br>
+        -Personal de Deposito <br> <br> -->
+
+
+        <b> DNI.:</b> 29763522 <br>
+        Fecha de nacimiento: 15 de Enero de 1983 <br>
+        Lugar de nacimiento: La Plata <br>
+        Nacionalidad: Argentino <br>
+        Estado civil: Casado <br>

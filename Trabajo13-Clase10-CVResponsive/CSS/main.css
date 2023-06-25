@@ -8,7 +8,7 @@
 
 
 
-@media (min-width:801px){
+/*@media (max-width:801px){
 
     .principal{
         display: flex;
@@ -126,9 +126,9 @@ main h2{
 .logros:hover{
     box-shadow: 0 6px 6px 0 rgb(4, 35, 91);
 }
-}
+}*/
 
-@media (max-width:800px){
+@media (max-width:1000px) and (min-width: 600px){
 
     aside, main {
         

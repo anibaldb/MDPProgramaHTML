@@ -1,0 +1,17 @@
+.carousel-item img{
+    height: 550px;
+    
+}
+
+.carousel{
+    margin-top: 120px;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.col-lg{
+    margin-left: 5px;
+    border-radius: 20px;
+}

@@ -11,4 +11,4 @@ console.log('Su nombre es '+nom+' y su edad es de '+edad+' años')
 
 
 let comp = (a<edad) ? a : edad
-console.log('el menor de los dos valores es '+comp+'cha')
+console.log('el menor de los dos valores es '+comp+'chau')
